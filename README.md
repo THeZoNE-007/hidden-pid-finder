@@ -1,4 +1,4 @@
-# Process Analysis Tool
+# Hidden Process ID Finder
 
 ## Overview
 
@@ -26,8 +26,8 @@ This Python script analyzes process information from two input files (`pslist` a
 No additional dependencies are required. Simply clone this repository and run the script.
 
 ```bash
-git clone https://github.com/yourusername/process-analysis-tool.git
-cd process-analysis-tool
+git clone https://github.com/THeZoNE-007/hidden-pid-finder.git
+cd hidden-pid-finder
 ```
 
 ---
@@ -41,11 +41,11 @@ cd process-analysis-tool
 
 2. Run the script using the following command:
    ```bash
-   python script_name.py <path_to_pslist_file> <path_to_psxview_file>
+   python hiddenPID.py <path_to_pslist_file> <path_to_psxview_file>
    ```
    Example:
    ```bash
-   python script_name.py pslist_output.txt psxview_output.txt
+   python hiddenPID.py pslist_output.txt psxview_output.txt
    ```
 
 3. The script will output any hidden PIDs directly to the console.
