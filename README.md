@@ -26,7 +26,7 @@ This Python script analyzes process information from two input files (`pslist` a
 No additional dependencies are required. Simply clone this repository and run the script.
 
 ```bash
-git clone https://github.com/THeZoNE-007/hidden-pid-finder.git
+git clone "https://github.com/THeZoNE-007/hidden-pid-finder.git"
 cd hidden-pid-finder
 ```
 
