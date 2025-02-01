@@ -1,4 +1,4 @@
-# Hidden Process ID Finder
+# Hidden Process ID Scanning
 
 ## Overview
 
